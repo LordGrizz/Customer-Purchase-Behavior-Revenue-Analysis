@@ -85,6 +85,3 @@ The dataset was transformed into a **Star Schema**:
 * Incorporate customer-level identifiers for deeper behavioral analysis
 * Add predictive modeling for sales forecasting
 * Enhance dashboard interactivity and drill-down analysis
-
-
-[Your Name]
