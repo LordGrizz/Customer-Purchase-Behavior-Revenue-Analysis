@@ -1,4 +1,4 @@
-#  Bike Sales Analysis Dashboard (Power BI)
+#  Customer Purchase Behavior & Revenue Analysis Dashboard (Power BI)
 
 ---
 
