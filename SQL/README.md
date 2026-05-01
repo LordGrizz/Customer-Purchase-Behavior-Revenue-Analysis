@@ -1,4 +1,4 @@
-# 📊 Bike Sales Data Analysis (SQL Project)
+# 📊 Customer Purchase Behavior & Revenue Analysis (SQL Project)
 
 ## 📌 Project Overview
 
